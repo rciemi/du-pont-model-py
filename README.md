@@ -60,7 +60,10 @@ It is essential to correctly save the indicators in the Excel program. Moreover,
 To sum up, the Scripting Languages Project is aimed at exporting and analyzing financial reports of selected companies listed on the Warsaw Stock Exchange. The program calculates important financial indicators and plots changes in the most critical categories using the Matplotlib library. To run the project correctly, pandas, tkinter, and matplotlib libraries must be downloaded. The financial report should include statistics from the past four years, and it is essential to correctly save the indicators in the Excel program. Overall, this project can be useful for financial analysis and investment decision-making.
 
 
- 
+## Authors
+
+[Radosław Ciemięga](https://github.com/rciemi)
+[Kacper Borys](https://github.com/KacperBorys)
 
 
 
